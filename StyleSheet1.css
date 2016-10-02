@@ -58,6 +58,12 @@ body {
   padding: 30px;
 }
 
+.profile {
+    max-width: 300px;
+    margin-top: 64px;
+    border-radius: 20px;
+
+}
 
 /*
  * Header
