@@ -117,7 +117,9 @@ body {
   font-weight: bold;
 }
 
-
+.profilepic * {
+  border-radius: 113px;
+}
 /*
  * Footer
  */
